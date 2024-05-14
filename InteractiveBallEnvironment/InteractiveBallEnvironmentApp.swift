@@ -12,6 +12,8 @@ struct InteractiveBallEnvironmentApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            
+            // test
         }
     }
 }
